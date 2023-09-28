@@ -7,3 +7,16 @@ Description: In this project, we will explore how virtual reality (VR) technolog
 Supervisor: Benjamin Kenwright
 Academic Year: 2023-24
 Degree Type: UG
+
+
+---
+
+Tasks/Project Management
+* [Week 2](./logs/week2.md)
+* [Week 3](./logs/week3.md)
+* [Week 4](./logs/week4.md)
+* [Week 5](./logs/week5.md)
+* ...
+
+
+
