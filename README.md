@@ -8,6 +8,7 @@ Supervisor: Benjamin Kenwright
 Academic Year: 2023-24
 Degree Type: UG
 
+![](https://www.technology-innovators.com/wp-content/uploads/2020/09/Human-Sensory-Possibility-of-Virtual-Reality.jpg)
 
 ---
 
