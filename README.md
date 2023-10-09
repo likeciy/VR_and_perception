@@ -14,10 +14,10 @@ Degree Type: UG
 
 Tasks/Project Management
 * [Week 2](./wiki/week2.md)
-* [Week 3](./logs/week3.md)
-* [Week 4](./logs/week4.md)
-* [Week 5](./logs/week5.md)
-* [Week 6](./logs/week6.md)
+* [Week 3](./wiki/week3.md)
+* [Week 4](./wiki/week4.md)
+* [Week 5](./wiki/week5.md)
+* [Week 6](./wiki/week6.md)
 * ...
 
 
