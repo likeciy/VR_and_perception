@@ -17,6 +17,7 @@ Tasks/Project Management
 * [Week 3](./logs/week3.md)
 * [Week 4](./logs/week4.md)
 * [Week 5](./logs/week5.md)
+* [Week 6](./logs/week6.md)
 * ...
 
 
