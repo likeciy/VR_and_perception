@@ -1,8 +1,8 @@
 # 1.Read some articals
 ## 《The Use of Virtual Reality in Historical and Cultural Preservation》
-httpsts2.spaceenthe-use-of-virtual-reality-in-historical-and-cultural-preservation
+ [The Use of Virtual Reality in Historical and Cultural Preservation](https://ts2.space/en/the-use-of-virtual-reality-in-historical-and-cultural-preservation/)
 ## 《VR education and rehabilitation》
-httpsdl.acm.orgdoipdf10.1145257874.257886
+ [VR education and rehabilitation](https://dl.acm.org/doi/pdf/10.1145/257874.257886)
 
 # 2.Have some basic idea of my project
 ## Deelop a VR games about restore a historical scene.
