@@ -8,3 +8,4 @@
 
 ## Extra inforamation
 ### Another idea about VR
+Whether we can try VR sets without VR glasses? 
