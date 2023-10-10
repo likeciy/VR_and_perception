@@ -1,7 +1,5 @@
 # 1.Read some articals
-## 《The Use of Virtual Reality in Historical and Cultural Preservation》
  [The Use of Virtual Reality in Historical and Cultural Preservation](https://ts2.space/en/the-use-of-virtual-reality-in-historical-and-cultural-preservation/)
-## 《VR education and rehabilitation》
  [VR education and rehabilitation](https://dl.acm.org/doi/pdf/10.1145/257874.257886)
 
 # 2.Have some basic idea of my project
