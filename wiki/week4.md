@@ -1,3 +1,3 @@
 - Busy with ROS
-- [√] Read some materials on [XR and multisensory aspects](https://www.computer.org/digital-library/magazines/cg/multisensory-extended-reality/)
-- [x] Try some source code about Oculus Quest 2 which in different scene 
+- [x] Read some materials on [XR and multisensory aspects](https://www.computer.org/digital-library/magazines/cg/multisensory-extended-reality/)
+- [ ] Try some source code about Oculus Quest 2 which in different scene 
