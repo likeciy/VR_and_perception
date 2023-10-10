@@ -1,8 +1,8 @@
 # Week 2
 
-- [√] Met supervisor
-- [√] Research project
-- [√] Setup GitHub
+- [x] Met supervisor
+- [x] Research project
+- [x] Setup GitHub
 
 ---
 
