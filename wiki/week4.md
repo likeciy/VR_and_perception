@@ -6,4 +6,5 @@
 - [x] Another idea about VR
 - [ ] Try some source code about Oculus Quest 2 which in different scene 
 
-## extra inforamation
+## Extra inforamation
+### Another idea about VR
