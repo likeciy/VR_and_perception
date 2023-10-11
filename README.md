@@ -1,6 +1,5 @@
 # VR_and_perception
-About final project in HW
-
+Final project in Heriot-Watt University
 ### Student: 
 Kehan Li (He/him)
 ### Title：
@@ -24,7 +23,7 @@ Tasks/Project Management
 * [Week 4](./wiki/week4.md)
 * [Week 5](./wiki/week5.md)
 * [Week 6](./wiki/week6.md)
-* ...
+  
 
 
 
