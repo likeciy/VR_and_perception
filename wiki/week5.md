@@ -4,6 +4,8 @@
 - [x] Draft outline of the abstract(200ish words)
 - [x] Update title/abstract on the project system
 - [ ] Fill in the ethics form
+- [ ] Overleaf report
+- [ ] Project planning
 
 ---
 
