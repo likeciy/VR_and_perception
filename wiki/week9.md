@@ -2,3 +2,5 @@
 
 - [ ] Finish introduction part of D1
 - [ ]
+---
+## Extra information
