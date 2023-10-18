@@ -4,6 +4,7 @@
 - [x] Overleaf report
 - [x] Project planning
 - [x] A gantt chart
+---
 
 ## Extra information
 ### study materials
