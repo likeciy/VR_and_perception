@@ -1,9 +1,9 @@
 # Consolidation Week
 
-- [x] Fill in the ethics form
-- [x] Overleaf report
+- [x] Fill in the Ethics Approval form
+- [x] Familiar with Overleaf and Deliverable 1
 - [x] Project planning
-- [x] A gantt chart
+- [x] A gantt chart(about semester 1)
 ---
 
 ## Extra information
