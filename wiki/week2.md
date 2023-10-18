@@ -17,5 +17,4 @@
 
 #### 3.Meet with project supervisor, determine weekly meeting time.
 Every Thursday at 17:00 (last 20 minites).
-## Links
 
