@@ -1,6 +1,6 @@
 # Week3
-- [x] read some articals
-- [x] have some idea of my project
+- [x] Read some articals
+- [x] Have some idea of my project
 
 ---
 
