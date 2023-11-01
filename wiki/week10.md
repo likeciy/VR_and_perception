@@ -1,6 +1,6 @@
 # Week10
 - [ ] Finish Related Work (literature review)
-- [ ] Finish Methodology/Evaluation/Requirements
+- [ ] Finish project managements
 ---
 ## Extra information
 
