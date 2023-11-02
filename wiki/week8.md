@@ -4,6 +4,7 @@
 - [ ] Start thinking about writing the report
 - [ ] Read articals to write literature review introduction
 - [ ] Build a specific framework for literature review
+- [ ] list all the objectives
 
 --- 
 ## Extra information
