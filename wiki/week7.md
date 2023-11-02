@@ -1,6 +1,6 @@
 # Week7
-- [ ] Submit ethic form
-- [ ] Plan the structure of the literature review chapter
+- [x] Submit ethic form
+- [x] Plan the structure of the literature review chapter
 
       
 ---
