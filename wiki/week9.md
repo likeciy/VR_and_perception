@@ -1,6 +1,6 @@
 # week9
 
-- [ ] Finish requirements, methodology and evaluation part of D1
+- [ ] Working on the literature review
 - [ ] Get ready for the project management part
 ---
 ## Extra information
