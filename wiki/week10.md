@@ -1,6 +1,6 @@
 # Week10
 - [ ] Finish Related Work (literature review)
-- [ ] Finish project managements
+- [ ] Get ready for the Requirements, Methodology and Evaluation
 ---
 ## Extra information
 
