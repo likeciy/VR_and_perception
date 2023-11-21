@@ -6,6 +6,9 @@
 - [ ] List of figures
 - [ ] List of tables
 - [ ] Abbreviations
-      
+- [ ] Polish literature review
+- [ ] Finish Requirements Analysis
+- [ ] Finish Evaluation Strategy
+   
 ---
 ## Extra information
