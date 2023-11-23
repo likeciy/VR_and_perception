@@ -1,7 +1,7 @@
 # Week10
-- [ ] Finish Related Work (literature review)
-- [ ] Get ready for the Requirements Anal
-- [ ] Get ready for Evaluation Strategy
+- [x] Finish Related Work (literature review)
+- [x] Get ready for the Requirements Anal
+- [x] Get ready for Evaluation Strategy
 ---
 ## Extra information
 
