@@ -2,7 +2,6 @@
 - [x] Finish project management
 - [x] The Appendix
 - [x] Declaration of Authorship
-- [x] Bibliography
 - [x] List of figures
 - [x] List of tables
 - [x] Abbreviations
